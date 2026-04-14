@@ -35,6 +35,4 @@ Data is stored in S3 → Queried using Athena → Processed → Visualized in Ta
 * Improves resource allocation
 * Identifies high-risk patient groups
 
-## 👤 Author
 
-Your Name
